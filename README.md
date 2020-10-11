@@ -1,4 +1,4 @@
-# Alexandra's SASS project
+# Alexandra's Sass project
 
 Due October 10, 2020
 
